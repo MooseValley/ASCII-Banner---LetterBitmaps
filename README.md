@@ -7,7 +7,7 @@ selected sections / headings in the log files.
 
 ### Sample Output:
 
-**java.exe -jar AsciiCommandLineBanner.jar "Moose's Software"**
+**java.exe -jar AsciiCommandLineBanner_proguard.jar "Moose's Software"**
 
 <pre>
     *   *                                               ****
@@ -20,7 +20,7 @@ selected sections / headings in the log files.
 </pre>
 
 
-**java.exe -jar AsciiCommandLineBanner.jar "Moose's Software" Valley "Est. Jul-1996"**
+**java.exe -jar AsciiCommandLineBanner_proguard.jar "Moose's Software" Valley "Est. Jul-1996"**
 
 <pre>
     *   *                                               ****
