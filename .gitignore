@@ -153,6 +153,7 @@ Results*.txt
 
 # Exclude all JAR files so the unencrypted ones cannot reveal any secrets.  Ticket: INC-2777.
 *.jar
+!_proguard.jar
 
 # Specificall Include these files:
 !00 - Video - Training, Walkthrough, Live Demo video.txt
