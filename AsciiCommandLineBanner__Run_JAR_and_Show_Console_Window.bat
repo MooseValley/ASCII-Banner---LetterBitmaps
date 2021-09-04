@@ -1,4 +1,4 @@
 REM "%JAVA_HOME%\bin\java.exe" -jar AsciiCommandLineBanner.jar
-java.exe -jar AsciiCommandLineBanner.jar Moose Valley
-java.exe -jar AsciiCommandLineBanner.jar "Moose Valley"
+REM java.exe -jar AsciiCommandLineBanner.jar Moose Valley
+java.exe -jar AsciiCommandLineBanner.jar "Moose Software" "Valley - Est. Jul-1996"
 pause
