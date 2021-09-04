@@ -7,9 +7,21 @@ selected sections / headings in the log files.
 
 ### Sample Output:
 
-**java.exe -jar AsciiCommandLineBanner.jar "Moose Valley"**
+**java.exe -jar AsciiCommandLineBanner.jar "Moose's Software"**
 
-**
+<pre>
+ *   *                                               ****
+ ** **                              **              *
+ * * *   ***    ***    ****  *****   *   ****       *       ***   *****  *****  *   *    *    ****   *****
+ *   *  *   *  *   *  *      *          *            ***   *   *  *        *    *   *   * *   *   *  *
+ *   *  *   *  *   *   ***   ***         ***            *  *   *  ****     *    * * *  *****  ****   ***
+ *   *  *   *  *   *      *  *              *           *  *   *  *        *    * * *  *   *  * *    *
+ *   *   ***    ***   ****   *****      ****        ****    ***   *        *     * *   *   *  *  *   *****
+</pre>
+
+
+**java.exe -jar AsciiCommandLineBanner.jar "Moose's Software" Valley "Est. Jul-1996"**
+
 <pre>
  *   *                                               ****
  ** **                              **              *
@@ -35,7 +47,7 @@ selected sections / headings in the log files.
  *          *    *    **       *   *  *   *  *             *        *      *  *   *
  *****  ****     *    **        ***    ****  *****        ***       *      *   ***
 </pre>
-**
+
 
 
 **Moose**
